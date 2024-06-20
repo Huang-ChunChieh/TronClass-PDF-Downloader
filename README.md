@@ -1,6 +1,6 @@
 # TronClass-PDF-Downloader
 
-English | [中文](README-ZH.md)
+[English](README.md) | [中文](README-ZH.md)
 
 Download preview files on TronClass in PDF format.
 
