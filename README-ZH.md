@@ -1,8 +1,13 @@
 # TronClass-PDF-Downloader
 
-[English](README.md) | 中文
-
 以 PDF 格式下載 TronClass 上僅供預覽的文件
+[English](README.md) | [中文](README-ZH.md)
+
+## 參考資料
+
+[Manifest_V3_Intro](https://chrome.jscn.org/docs/extensions/mv3/intro/)
+[Create_Google_Chrome_Extension](https://lt1stsolomid.medium.com/%E5%AF%A6%E4%BD%9C%E5%88%86%E4%BA%AB-%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8Bchrome-extension-manifest-v3-cdee55be46d7)
+[Origin_Repo](https://github.com/fish-can/TronClass-PDF-Downloader/tree/master)
 
 ## 安裝
 
@@ -14,10 +19,6 @@
 2. 啟用開發人員模式
 3. 載入未封裝項目
 4. 選擇此專案資料夾
-
-### Mozilla Firefox
-
-必須使用 v1.x 版本的 [Releases v1.1](https://github.com/fish-can/TronClass-PDF-Downloader/releases/tag/v1.1)
 
 ### Microsoft Edge
 
