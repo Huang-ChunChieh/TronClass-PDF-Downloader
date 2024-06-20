@@ -12,7 +12,7 @@
 
 ## 安裝
 
-1. [下載](https://github.com/fish-can/TronClass-PDF-Downloader/releases/tag/v2.0)此專案，並解壓縮
+1. [下載](https://github.com/Huang-ChunChieh/TronClass-PDF-Downloader/releases/tag/V1.0)此專案，並解壓縮
 
 ### Google Chrome
 

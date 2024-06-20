@@ -12,7 +12,7 @@ Download preview files on TronClass in PDF format.
 
 ## Install
 
-1. [Download](https://github.com/fish-can/TronClass-PDF-Downloader/releases/tag/v2.0)&Unzip the file
+1. [Download](https://github.com/Huang-ChunChieh/TronClass-PDF-Downloader/releases/tag/V1.0)&Unzip the file
 
 ### Google Chrome
 
