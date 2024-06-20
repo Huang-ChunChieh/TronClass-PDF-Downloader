@@ -1,13 +1,14 @@
 # TronClass-PDF-Downloader
 
 Download preview files on TronClass in PDF format.
+
 [English](README.md) | [中文](README-ZH.md)
 
 ## Referance Info
 
-[Manifest_V3_Intro](https://chrome.jscn.org/docs/extensions/mv3/intro/)
-[Create_Google_Chrome_Extension](https://lt1stsolomid.medium.com/%E5%AF%A6%E4%BD%9C%E5%88%86%E4%BA%AB-%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8Bchrome-extension-manifest-v3-cdee55be46d7)
-[Origin_Repo](https://github.com/fish-can/TronClass-PDF-Downloader/tree/master)
+1. [Manifest_V3_Intro](https://chrome.jscn.org/docs/extensions/mv3/intro/)
+2. [Create_Google_Chrome_Extension](https://lt1stsolomid.medium.com/%E5%AF%A6%E4%BD%9C%E5%88%86%E4%BA%AB-%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8Bchrome-extension-manifest-v3-cdee55be46d7)
+3. [Origin_Repo](https://github.com/fish-can/TronClass-PDF-Downloader/tree/master)
 
 ## Install
 
