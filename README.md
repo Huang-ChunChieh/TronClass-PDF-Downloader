@@ -2,7 +2,7 @@
 
 Download preview files on TronClass in PDF format.
 
-[English](README.md) | [中文](README-ZH.md)
+[English](README.md) | [中文](README-ZH.md) | [Code Step-by-Step Explanation程式逐步解析](README-JSFILE.md)
 
 ## Referance Info
 
